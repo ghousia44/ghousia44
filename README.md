@@ -1,9 +1,17 @@
 # Hi 👋 I'm Ghousia Hasan
 
-🎓 MCA Student at Nalanda College, Biharsharif
-💻 Aspiring Software Developer
-🌱 Currently learning Web Development and Data Structures
+🎓 MCA Student | Aspiring Software Developer
+💻 Passionate about Web Development and Programming
 
+👩‍💻 About Me
+
+🎓 Currently pursuing Master of Computer Applications (MCA)
+
+🌱 Learning Web Development, Data Structures, and Programming
+
+💡 Interested in building real-world software solutions
+
+🚀 Improving coding skills through practical projects
 ---
 
 ## 🔧 Skills
