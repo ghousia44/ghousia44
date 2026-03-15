@@ -42,12 +42,34 @@ Tools
 * MS Excel
 
 ---
+## 📂 Projects
 
-## 📚 Currently Learning
+### 📝 Todo List Web App
+A simple web application to manage daily tasks.
 
-* Data Structures & Algorithms
-* Cloud Computing
-* Full Stack Web Development
+Features:
+- Add tasks
+- Mark tasks completed
+- Delete tasks
+- Local storage support
+
+Repository:
+https://github.com/ghousia44/todo-list-web-app
+
+---
+
+### 🎓 Student Attendance System
+A web-based system to manage and track student attendance.
+
+Features:
+- Admin login
+- Add students
+- Mark attendance
+- Attendance percentage calculation
+- Download attendance report
+
+Repository:
+https://github.com/ghousia44/student-attendance-system
 ## 🛠️ Technologies & Tools
 
 ![C](https://img.shields.io/badge/C-Programming-blue)
