@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋 I'm Ghousia Hasan
 
-<!--
-**ghousia44/ghousia44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at Nalanda College, Biharsharif
+💻 Aspiring Software Developer
+🌱 Currently learning Web Development and Data Structures
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+Programming Languages
+
+* C
+* C++
+* Java
+* Python
+* Go
+
+Web Technologies
+
+* HTML
+* CSS
+* JavaScript
+
+Database
+
+* MySQL
+* NoSQL
+
+Tools
+
+* Visual Studio
+* IntelliJ IDEA
+* MS Excel
+
+---
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Cloud Computing
+* Full Stack Web Development
+
+---
+
+## 🔗 Connect With Me
+
+LinkedIn
+https://www.linkedin.com/in/ghousia-hasan-2942b2356
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
