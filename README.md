@@ -1,20 +1,20 @@
 # Hi 👋 I'm Ghousia Hasan
 
-🎓 MCA Student | Aspiring Software Developer
-💻 Passionate about Web Development and Programming
+🎓 MCA Student | Full-Stack Developer
+ Passionate about Web Development and Programming
 
-👩‍💻 About Me
+ About Me
 
-🎓 Currently pursuing Master of Computer Applications (MCA)
+ Currently pursuing Master of Computer Applications (MCA)
 
-🌱 Learning Web Development, Data Structures, and Programming
+ Learning Web Development, Data Structures, and Programming
 
-💡 Interested in building real-world software solutions
+ Interested in building real-world software solutions
 
-🚀 Improving coding skills through practical projects
+ Improving coding skills through practical projects
 ---
 
-## 🔧 Skills
+## Skills
 
 Programming Languages
 
@@ -22,7 +22,7 @@ Programming Languages
 * C++
 * Java
 * Python
-* Go
+  
 
 Web Technologies
 
@@ -32,14 +32,16 @@ Web Technologies
 
 Database
 
-* MySQL
+* MySQL||ORACLE
 * NoSQL
 
 Tools
 
-* Visual Studio
+* Visual Studio Code
 * IntelliJ IDEA
+* NetBeans
 * MS Excel
+* PowerPoint 
 
 ---
 ## 📂 Projects
@@ -70,13 +72,12 @@ Features:
 
 Repository:
 https://github.com/ghousia44/student-attendance-system
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![C](https://img.shields.io/badge/C-Programming-blue)
 ![C++](https://img.shields.io/badge/C++-Programming-blue)
 ![Java](https://img.shields.io/badge/Java-Programming-red)
 ![Python](https://img.shields.io/badge/Python-Programming-yellow)
-![Go](https://img.shields.io/badge/Go-Programming-cyan)
 
 ![HTML](https://img.shields.io/badge/HTML-Web-orange)
 ![CSS](https://img.shields.io/badge/CSS-Web-blue)
