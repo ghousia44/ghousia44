@@ -86,21 +86,14 @@ https://github.com/ghousia44/student-attendance-system
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
 
 ![VS Code](https://img.shields.io/badge/VSCode-Editor-blue)
----
 ## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghousia44&show_icons=true&theme=radical)
-## 💻 Most Used Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=ghousia44&show_icons=true&theme=radical)
 
 ## 💻 Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghousia44&layout=compact&theme=radical)
+
 ## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ghousia44)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=ghousia44&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=ghousia44)
 
 ## 🔗 Connect With Me
