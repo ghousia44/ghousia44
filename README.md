@@ -89,10 +89,14 @@ https://github.com/ghousia44/student-attendance-system
 ---
 ## 📊 GitHub Stats
 
-![Ghousia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghousia44&show_icons=true&theme=default)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghousia44&show_icons=true&theme=radical)
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghousia44&layout=compact)
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghousia44&layout=compact&theme=radical)
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ghousia44)
